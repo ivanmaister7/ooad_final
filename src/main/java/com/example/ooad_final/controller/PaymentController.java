@@ -2,6 +2,7 @@ package com.example.ooad_final.controller;
 
 import com.example.ooad_final.request.PaymentInfoRequest;
 import com.example.ooad_final.request.PaymentRequest;
+import com.example.ooad_final.service.MyPaymentService;
 import com.example.ooad_final.service.PaymentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
